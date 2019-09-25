@@ -6,5 +6,7 @@ Orders become incomplete due to a lack of inventory at one or more stations. At 
 
 Detailed information is stored in Milestone3.pdf
 
+To run a program you have to put Inventory.txt CustomerOrders.txt AssemblyLine.txt as command arguments.
+
 IDE = Visual studio 2017
 

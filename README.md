@@ -5,3 +5,6 @@ Each station fills the next order in the queue if that order requests its item a
 Orders become incomplete due to a lack of inventory at one or more stations. At the end of all processing, the line manager lists the completed orders and the orders that are incomplete. The figure below illustrates the classes that constitute the simulator and the process of filling orders as they move along the pipeline.
 
 On Simulator_Classes.jpg file, Summary of Simulator_Classes is stored. 
+
+IDE = Visual studio 2017
+

@@ -4,7 +4,7 @@ The project simulates an assembly line that fills customer orders from inventory
 Each station fills the next order in the queue if that order requests its item and that item is still in stock. A line manager moves the customer orders from station to station until all orders have been processed. Any station that has used all of the items in stock cannot fill any more orders.
 Orders become incomplete due to a lack of inventory at one or more stations. At the end of all processing, the line manager lists the completed orders and the orders that are incomplete. The figure below illustrates the classes that constitute the simulator and the process of filling orders as they move along the pipeline.
 
-On Simulator_Classes.jpg file, Summary of Simulator_Classes is stored. 
+Detailed information is stored in Milestone3.pdf
 
 IDE = Visual studio 2017
 
